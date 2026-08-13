@@ -1,6 +1,0 @@
-{
-  "name": "Car Dealership Management System",
-  "description": "A professional management dashboard for car dealerships, featuring inventory management, sales tracking, maintenance logs, employee roles, customer loyalty, and expense tracking inspired by the UML class diagram.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
